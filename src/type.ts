@@ -1,0 +1,22 @@
+export const ACCEPT_TYPE_FILE = [
+    "xlsx",
+    "xlsb",
+    "xlsm",
+    "xls",
+    // "xml",
+    "csv",
+    // "txt",
+    // "ods",
+    // "fods",
+    // "uos",
+    // "sylk",
+    // "dif",
+    // "dbf",
+    // "prn",
+    // "qpw",
+    // "123",
+    // "wb*",
+    // "wq*",
+    // "html",
+    // "htm"
+  ];
